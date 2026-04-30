@@ -3,6 +3,8 @@
 A Retrieval-Augmented Generation approach for context-enhanced IMDB movie review classification using GRU networks.
 
 ---
+PDF-RESEARCH PAPER--LINK [RAG-GRU paper.docx](https://github.com/user-attachments/files/27251106/RAG-GRU.paper.docx)
+
 
 ## 📌 Overview
 
