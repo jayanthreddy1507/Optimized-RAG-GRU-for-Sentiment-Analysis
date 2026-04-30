@@ -1,0 +1,5 @@
+rag_gru_project/venv/
+rag_gru_project/__pycache__/
+*.pyc
+.env
+IMDB Dataset.csv
